@@ -1,0 +1,17 @@
+{
+  "name": "for_casey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "components.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node ./run.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^3.0.0"
+  }
+}
